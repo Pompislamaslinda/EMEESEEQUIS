@@ -1,34 +1,63 @@
-[19:54:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:54:04] [ServerMain/INFO]: No existing world data, creating new world
-[19:54:05] [ServerMain/INFO]: Loaded 1407 recipes
-[19:54:05] [ServerMain/INFO]: Loaded 1520 advancements
-[19:54:05] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[19:54:05] [Server thread/INFO]: Loading properties
-[19:54:05] [Server thread/INFO]: Default game type: SURVIVAL
-[19:54:05] [Server thread/INFO]: Generating keypair
-[19:54:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:54:05] [Server thread/INFO]: Using epoll channel type
-[19:54:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:54:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:54:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:54:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:54:05] [Server thread/INFO]: Preparing level "world"
-[19:54:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:54:13] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[19:54:13] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[19:54:14] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:54:14] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[19:54:15] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[19:54:15] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[19:54:16] [Worker-Main-2/INFO]: Preparing spawn area: 46%
-[19:54:16] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[19:54:17] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[19:54:17] [Worker-Main-3/INFO]: Preparing spawn area: 75%
-[19:54:17] [Server thread/INFO]: Time elapsed: 4521 ms
-[19:54:17] [Server thread/INFO]: Done (12.036s)! For help, type "help"
-[19:55:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:55:58] [Server thread/INFO]: DonPepsi[/127.237.38.199:47715] logged in with entity id 22 at (-4.5, 74.0, -6.5)
-[19:55:58] [Server thread/INFO]: DonPepsi joined the game
-[19:56:22] [Server thread/INFO]: DonPepsi has made the advancement [Ice Bucket Challenge]
-[19:59:32] [Server thread/INFO]: DonPepsi has made the advancement [Stone Age]
-[20:00:59] [Server thread/INFO]: DonPepsi has made the advancement [Getting an Upgrade]
+[20:41:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:41:04] [ServerMain/INFO]: Loaded 1407 recipes
+[20:41:04] [ServerMain/INFO]: Loaded 1520 advancements
+[20:41:04] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:41:04] [Server thread/INFO]: Loading properties
+[20:41:04] [Server thread/INFO]: Default game type: SURVIVAL
+[20:41:04] [Server thread/INFO]: Generating keypair
+[20:41:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:41:04] [Server thread/INFO]: Using epoll channel type
+[20:41:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:41:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:41:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:41:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:41:04] [Server thread/INFO]: Preparing level "world"
+[20:41:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:41:08] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[20:41:08] [Server thread/INFO]: Time elapsed: 3639 ms
+[20:41:08] [Server thread/INFO]: Done (3.991s)! For help, type "help"
+[20:41:09] [Server thread/INFO]: Le0[/127.136.237.167:35091] logged in with entity id 57 at (-7.5, 65.0, 4.5)
+[20:41:09] [Server thread/INFO]: Le0 joined the game
+[20:41:10] [Server thread/WARN]: UUID of added entity already exists: csd['Skeleton'/72, l='ServerLevel[world]', x=43.70, y=71.00, z=-53.39]
+[20:46:24] [Server thread/INFO]: Le0 was slain by Spider
+[20:46:36] [Server thread/INFO]: Le0 lost connection: Disconnected
+[20:46:36] [Server thread/INFO]: Le0 left the game
+[20:47:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:47:40] [Server thread/INFO]: Le0[/127.136.237.167:52277] logged in with entity id 2448 at (-0.5, 70.0, -3.5)
+[20:47:40] [Server thread/INFO]: Le0 joined the game
+[20:48:27] [Server thread/INFO]: Le0 has made the advancement [Monster Hunter]
+[20:50:07] [Server thread/INFO]: DonPepsi[/127.237.38.199:33943] logged in with entity id 3250 at (51.367251727865984, 72.0, -48.44963553919336)
+[20:50:07] [Server thread/INFO]: DonPepsi joined the game
+[20:50:11] [Server thread/INFO]: [Not Secure] <Le0> NOOOOOOOOOOOOOOOOO
+[20:50:15] [Server thread/INFO]: [Not Secure] <DonPepsi> eiii
+[20:50:43] [Server thread/INFO]: [Not Secure] <Le0> ta too lagueao wons xdd
+[20:50:53] [Server thread/INFO]: [Not Secure] <DonPepsi> lag de pc
+[20:50:56] [Server thread/INFO]: [Not Secure] <DonPepsi> o de internet
+[20:51:18] [Server thread/INFO]: [Not Secure] <Le0> interne pareciera... cuando anda un mob qlo raro
+[20:51:39] [Server thread/INFO]: [Not Secure] <Le0> el nefli won
+[20:51:53] [Server thread/INFO]: [Not Secure] <Le0> q wea un chancho qlo cafe
+[20:52:02] [Server thread/INFO]: [Not Secure] <DonPepsi> si won
+[20:52:06] [Server thread/INFO]: [Not Secure] <DonPepsi> hay mas skin
+[20:52:24] [Server thread/INFO]: [Not Secure] <Le0> un perro cafe wons
+[20:52:38] [Server thread/INFO]: [Not Secure] <DonPepsi> oe si won ta too lagiao
+[20:52:46] [Server thread/INFO]: Le0 has made the advancement [Stone Age]
+[20:53:08] [Server thread/INFO]: [Not Secure] <DonPepsi> cagaron vacas ql
+[20:53:13] [Server thread/INFO]: [Not Secure] <Le0> XD
+[20:54:05] [Server thread/INFO]: Le0 has made the advancement [Getting an Upgrade]
+[20:54:49] [Server thread/INFO]: [Not Secure] <DonPepsi> onde tai qlo
+[20:55:35] [Server thread/INFO]: [Not Secure] <Le0> x 138.300
+[20:55:49] [Server thread/INFO]: [Not Secure] <Le0> y 70
+[20:56:13] [Server thread/INFO]: [Not Secure] <Le0> es un hoyo qlo
+[20:59:45] [Server thread/INFO]: [Not Secure] <Le0> ahi te veo xd
+[21:00:23] [Server thread/INFO]: [Not Secure] <DonPepsi> quee wea andai de esmokin
+[21:00:31] [Server thread/INFO]: [Not Secure] <Le0> aer
+[21:00:33] [Server thread/INFO]: [Not Secure] <DonPepsi> y que llora tanto esta caga
+[21:00:36] [Server thread/INFO]: [Not Secure] <DonPepsi> quiere morir
+[21:00:43] [Server thread/INFO]: [Not Secure] <Le0> oe soy un granjero qlo
