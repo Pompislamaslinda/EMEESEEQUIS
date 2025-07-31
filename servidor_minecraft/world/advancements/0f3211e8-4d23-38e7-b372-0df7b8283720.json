@@ -243,6 +243,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-31 02:55:33 +0000",
+      "minecraft:phantom": "2025-07-31 05:15:41 +0000",
       "minecraft:spider": "2025-07-31 02:53:43 +0000",
       "minecraft:zombie": "2025-07-31 02:35:38 +0000",
       "minecraft:drowned": "2025-07-31 02:50:04 +0000"
@@ -755,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-31 05:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-07-31 02:43:17 +0000"
@@ -1028,6 +1035,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-31 02:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-31 05:25:11 +0000"
     },
     "done": true
   },
@@ -1469,6 +1482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-31 05:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-07-31 03:40:45 +0000"
@@ -1520,6 +1539,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-07-31 04:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-31 05:25:21 +0000"
     },
     "done": true
   },

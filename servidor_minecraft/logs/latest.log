@@ -435,3 +435,18 @@
 [05:00:29] [Server thread/INFO]: AVich0 lost connection: Disconnected
 [05:00:29] [Server thread/INFO]: AVich0 left the game
 [05:04:52] [Server thread/INFO]: Le0 has made the advancement [A Seedy Place]
+[05:11:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:11:49] [Server thread/INFO]: Say quien ta metio aun?<--[HERE]
+[05:11:55] [Server thread/INFO]: [Not Secure] [Server] quien ta metido aun
+[05:12:05] [Server thread/INFO]: [Not Secure] <dieggox> queti
+[05:12:29] [Server thread/INFO]: [Not Secure] <Le0> almo qlo
+[05:18:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=72, z=-31} jb{x=7, y=63, z=7}
+[05:18:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=72, z=-31} jb{x=7, y=63, z=7}
+[05:18:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=72, z=-31} jb{x=7, y=63, z=6}
+[05:18:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=72, z=-31} jb{x=7, y=63, z=7}
+[05:18:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=72, z=-31} jb{x=7, y=63, z=7}
+[05:18:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=72, z=-31} jb{x=7, y=63, z=7}
+[05:18:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=72, z=-31} jb{x=7, y=63, z=7}
+[05:22:12] [Server thread/INFO]: dieggox drowned
+[05:28:40] [Server thread/INFO]: DonPepsi[/127.6.116.174:44131] logged in with entity id 145032 at (166.79186773213155, 73.0, -1196.699999988079)
+[05:28:40] [Server thread/INFO]: DonPepsi joined the game
