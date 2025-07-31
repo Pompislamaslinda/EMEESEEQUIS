@@ -404,6 +404,7 @@
       "cooked_porkchop": "2025-07-31 03:02:41 +0000",
       "bread": "2025-07-31 04:28:19 +0000",
       "cooked_chicken": "2025-07-31 02:38:53 +0000",
+      "cooked_mutton": "2025-07-31 05:00:24 +0000",
       "cooked_cod": "2025-07-31 02:50:55 +0000",
       "cooked_beef": "2025-07-31 03:19:10 +0000",
       "melon_slice": "2025-07-31 04:32:05 +0000",
@@ -1441,6 +1442,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-31 02:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-31 04:57:35 +0000"
     },
     "done": true
   },

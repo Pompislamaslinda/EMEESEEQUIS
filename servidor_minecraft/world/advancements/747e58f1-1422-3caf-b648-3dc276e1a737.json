@@ -414,6 +414,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-30 20:56:25 +0000",
       "apple": "2025-07-30 20:50:00 +0000",
+      "bread": "2025-07-31 04:48:40 +0000",
       "cooked_chicken": "2025-07-30 21:06:41 +0000",
       "cooked_mutton": "2025-07-31 02:35:48 +0000",
       "melon_slice": "2025-07-30 21:58:06 +0000"
@@ -882,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-31 04:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-07-31 04:11:48 +0000"
@@ -1344,6 +1351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-31 05:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-31 03:02:31 +0000"
@@ -1497,6 +1510,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-07-31 05:04:52 +0000"
     },
     "done": true
   },
