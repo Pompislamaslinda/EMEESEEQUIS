@@ -484,3 +484,4 @@
 [06:23:27] [Server thread/INFO]: [Not Secure] <dieggox> ya
 [06:23:31] [Server thread/INFO]: [Not Secure] <dieggox> wena
 [06:23:37] [Server thread/INFO]: dieggox has made the advancement [Hot Stuff]
+[06:30:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-5, y=71, z=393} jb{x=-5, y=70, z=392}
