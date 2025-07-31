@@ -1,134 +1,33 @@
-[20:41:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:41:04] [ServerMain/INFO]: Loaded 1407 recipes
-[20:41:04] [ServerMain/INFO]: Loaded 1520 advancements
-[20:41:04] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[20:41:04] [Server thread/INFO]: Loading properties
-[20:41:04] [Server thread/INFO]: Default game type: SURVIVAL
-[20:41:04] [Server thread/INFO]: Generating keypair
-[20:41:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:41:04] [Server thread/INFO]: Using epoll channel type
-[20:41:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:41:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:41:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:41:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:41:04] [Server thread/INFO]: Preparing level "world"
-[20:41:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:41:08] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[20:41:08] [Server thread/INFO]: Time elapsed: 3639 ms
-[20:41:08] [Server thread/INFO]: Done (3.991s)! For help, type "help"
-[20:41:09] [Server thread/INFO]: Le0[/127.136.237.167:35091] logged in with entity id 57 at (-7.5, 65.0, 4.5)
-[20:41:09] [Server thread/INFO]: Le0 joined the game
-[20:41:10] [Server thread/WARN]: UUID of added entity already exists: csd['Skeleton'/72, l='ServerLevel[world]', x=43.70, y=71.00, z=-53.39]
-[20:46:24] [Server thread/INFO]: Le0 was slain by Spider
-[20:46:36] [Server thread/INFO]: Le0 lost connection: Disconnected
-[20:46:36] [Server thread/INFO]: Le0 left the game
-[20:47:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:47:40] [Server thread/INFO]: Le0[/127.136.237.167:52277] logged in with entity id 2448 at (-0.5, 70.0, -3.5)
-[20:47:40] [Server thread/INFO]: Le0 joined the game
-[20:48:27] [Server thread/INFO]: Le0 has made the advancement [Monster Hunter]
-[20:50:07] [Server thread/INFO]: DonPepsi[/127.237.38.199:33943] logged in with entity id 3250 at (51.367251727865984, 72.0, -48.44963553919336)
-[20:50:07] [Server thread/INFO]: DonPepsi joined the game
-[20:50:11] [Server thread/INFO]: [Not Secure] <Le0> NOOOOOOOOOOOOOOOOO
-[20:50:15] [Server thread/INFO]: [Not Secure] <DonPepsi> eiii
-[20:50:43] [Server thread/INFO]: [Not Secure] <Le0> ta too lagueao wons xdd
-[20:50:53] [Server thread/INFO]: [Not Secure] <DonPepsi> lag de pc
-[20:50:56] [Server thread/INFO]: [Not Secure] <DonPepsi> o de internet
-[20:51:18] [Server thread/INFO]: [Not Secure] <Le0> interne pareciera... cuando anda un mob qlo raro
-[20:51:39] [Server thread/INFO]: [Not Secure] <Le0> el nefli won
-[20:51:53] [Server thread/INFO]: [Not Secure] <Le0> q wea un chancho qlo cafe
-[20:52:02] [Server thread/INFO]: [Not Secure] <DonPepsi> si won
-[20:52:06] [Server thread/INFO]: [Not Secure] <DonPepsi> hay mas skin
-[20:52:24] [Server thread/INFO]: [Not Secure] <Le0> un perro cafe wons
-[20:52:38] [Server thread/INFO]: [Not Secure] <DonPepsi> oe si won ta too lagiao
-[20:52:46] [Server thread/INFO]: Le0 has made the advancement [Stone Age]
-[20:53:08] [Server thread/INFO]: [Not Secure] <DonPepsi> cagaron vacas ql
-[20:53:13] [Server thread/INFO]: [Not Secure] <Le0> XD
-[20:54:05] [Server thread/INFO]: Le0 has made the advancement [Getting an Upgrade]
-[20:54:49] [Server thread/INFO]: [Not Secure] <DonPepsi> onde tai qlo
-[20:55:35] [Server thread/INFO]: [Not Secure] <Le0> x 138.300
-[20:55:49] [Server thread/INFO]: [Not Secure] <Le0> y 70
-[20:56:13] [Server thread/INFO]: [Not Secure] <Le0> es un hoyo qlo
-[20:59:45] [Server thread/INFO]: [Not Secure] <Le0> ahi te veo xd
-[21:00:23] [Server thread/INFO]: [Not Secure] <DonPepsi> quee wea andai de esmokin
-[21:00:31] [Server thread/INFO]: [Not Secure] <Le0> aer
-[21:00:33] [Server thread/INFO]: [Not Secure] <DonPepsi> y que llora tanto esta caga
-[21:00:36] [Server thread/INFO]: [Not Secure] <DonPepsi> quiere morir
-[21:00:43] [Server thread/INFO]: [Not Secure] <Le0> oe soy un granjero qlo
-[21:00:51] [Server thread/INFO]: [Not Secure] <DonPepsi> ah ta cambiao pa todos loswnes
-[21:00:55] [Server thread/INFO]: [Not Secure] <DonPepsi> a mi me sales con traje won
-[21:01:03] [Server thread/INFO]: [Not Secure] <Le0> XD
-[21:02:24] [Server thread/INFO]: DonPepsi has made the advancement [Best Friends Forever]
-[21:02:53] [Server thread/INFO]: [Not Secure] <DonPepsi> como sería el maricon de ulloa jugando maincras
-[21:03:10] [Server thread/INFO]: [Not Secure] <Le0> ese no sabe ni una wea
-[21:04:54] [Server thread/INFO]: [Not Secure] <DonPepsi> dale weso a tu perro wn
-[21:04:59] [Server thread/INFO]: [Not Secure] <DonPepsi> ta meta llorar la wea
-[21:06:08] [Server thread/INFO]: [Not Secure] <DonPepsi> XDD
-[21:07:02] [Server thread/INFO]: Le0 has made the advancement [Best Friends Forever]
-[21:11:00] [Server thread/INFO]: [Not Secure] <DonPepsi> XDDDD
-[21:11:05] [Server thread/INFO]: [Not Secure] <Le0> caga e mrd
-[21:12:56] [Server thread/INFO]: [Not Secure] <DonPepsi> parece que voy a hacer mierda esa montaña
-[21:13:02] [Server thread/INFO]: [Not Secure] <DonPepsi> y voy a hacer una casa pa mi solo arriba
-[21:13:12] [Server thread/INFO]: [Not Secure] <Le0> viejo qlo del monte
-[21:15:51] [Server thread/INFO]: [Not Secure] <DonPepsi> la casa culia más chica que tengo
-[21:15:57] [Server thread/INFO]: [Not Secure] <Le0> yiaaaaah
-[21:16:21] [Server thread/INFO]: [Not Secure] <DonPepsi> chancho culiao
-[21:16:23] [Server thread/INFO]: [Not Secure] <DonPepsi> chancho culiao
-[21:16:25] [Server thread/INFO]: [Not Secure] <DonPepsi> asqueroso
-[21:16:27] [Server thread/INFO]: [Not Secure] <Le0> oe donde vai hacer tu jaus
-[21:16:29] [Server thread/INFO]: [Not Secure] <DonPepsi> de feo de horrible
-[21:16:32] [Server thread/INFO]: [Not Secure] <DonPepsi> oe aca arriba
-[21:16:34] [Server thread/INFO]: [Not Secure] <Le0> XD
-[21:16:43] [Server thread/INFO]: [Not Secure] <DonPepsi> vo hazla ahi al frente po XD
-[21:16:48] [Server thread/INFO]: [Not Secure] <Le0> oe nose puede hacer zoom
-[21:16:48] [Server thread/INFO]: [Not Secure] <DonPepsi> y sopa abajo como los gei
-[21:16:54] [Server thread/INFO]: [Not Secure] <DonPepsi> Oe no
-[21:16:58] [Server thread/INFO]: [Not Secure] <Le0> oe me quitaste mi montaña maricon
-[21:16:58] [Server thread/INFO]: [Not Secure] <DonPepsi> se puede con el optifine nomas
-[21:17:01] [Server thread/INFO]: [Not Secure] <DonPepsi> si
-[21:17:02] [Server thread/INFO]: [Not Secure] <DonPepsi> XDDDD
-[21:17:18] [Server thread/INFO]: [Not Secure] <Le0> sopa en el subterraneo
-[21:17:24] [Server thread/INFO]: [Not Secure] <DonPepsi> sopa qlo vagabundo
-[21:17:29] [Server thread/INFO]: [Not Secure] <Le0> XD
-[21:17:34] [Server thread/INFO]: [Not Secure] <Le0> bajo el puente
-[21:17:38] [Server thread/INFO]: [Not Secure] <DonPepsi> si
-[21:21:21] [Server thread/INFO]: [Not Secure] <DonPepsi> oe dame tierrra
-[21:21:30] [Server thread/INFO]: [Not Secure] <Le0> yiah
-[21:21:35] [Server thread/INFO]: [Not Secure] <DonPepsi> eiii pa 3 todos mierda
-[21:26:23] [Server thread/INFO]: [Not Secure] [Server] Miedo al SAMP
-[21:27:44] [Server thread/INFO]: [Not Secure] <DonPepsi> NOOO QUE ES ESA MIERDA
-[21:27:50] [Server thread/INFO]: [Not Secure] <DonPepsi> AHI VIENE
-[21:28:12] [Server thread/INFO]: [Not Secure] <Le0> anda mucho won
-[21:28:14] [Server thread/INFO]: [Not Secure] <DonPepsi> que wea solto un tema
-[21:28:19] [Server thread/INFO]: [Not Secure] <DonPepsi> Sexy movimiento
-[21:28:24] [Server thread/INFO]: [Not Secure] <Le0> XD
-[21:37:54] [Server thread/INFO]: [Not Secure] <DonPepsi> hace tu wea de casa leoooo
-[21:38:16] [Server thread/INFO]: [Not Secure] <Le0> almo qlo me quitaste la montaña maricon...obligao a emparejar la wea de aca XDDDD
-[21:38:25] [Server thread/INFO]: [Not Secure] <DonPepsi> esta wea tenia ma hoyo
-[21:38:27] [Server thread/INFO]: [Not Secure] <DonPepsi> te salve
-[21:40:32] [Server thread/INFO]: [Not Secure] <DonPepsi> Ulloa enamorado 2025 o Ulloa enamorado 2016
-[21:42:12] [Server thread/INFO]: [Not Secure] <Le0> aun falta pa comparar la temporada de ulloa 2016-2019
-[21:42:17] [Server thread/INFO]: [Not Secure] <DonPepsi> XDD
-[21:42:26] [Server thread/INFO]: [Not Secure] <DonPepsi> temporada qla fue como 2016-2023 sipo
-[21:42:33] [Server thread/INFO]: [Not Secure] <DonPepsi> cuando se entero de una wea y le dolio
-[21:42:35] [Server thread/INFO]: [Not Secure] <DonPepsi> XDD
-[21:42:47] [Server thread/INFO]: [Not Secure] <DonPepsi> *se caga de la risa
-[21:42:53] [Server thread/INFO]: [Not Secure] <Le0> oe esa wea no cuenta
-[21:42:59] [Server thread/INFO]: [Not Secure] <Le0> ese es solis qlo q se reia
-[21:43:27] [Server thread/INFO]: [Not Secure] <DonPepsi> los maricones bviene
-[21:44:42] [Server thread/INFO]: [Not Secure] <DonPepsi> dame tierra wonk
-[21:47:50] [Server thread/INFO]: Le0 has made the advancement [Take Aim]
-[21:51:20] [Server thread/INFO]: [Not Secure] <DonPepsi> oe leo convidate unos peazo de tieeerrapo
-[21:51:31] [Server thread/INFO]: [Not Secure] <Le0> oe estai dejando la caga won
-[21:51:32] [Server thread/INFO]: [Not Secure] <DonPepsi> los terrenos
-[21:57:36] [Server thread/INFO]: Le0 has made the advancement [The Parrots and the Bats]
-[21:59:00] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[21:59:00] [Server thread/INFO]: DonPepsi left the game
-[21:59:13] [Server thread/INFO]: [Not Secure] [Server] calmao won vuelvo al rato
-[22:10:01] [Server thread/INFO]: Le0 was blown up by Creeper
+[00:22:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:22:59] [ServerMain/INFO]: Loaded 1407 recipes
+[00:22:59] [ServerMain/INFO]: Loaded 1520 advancements
+[00:22:59] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[00:22:59] [Server thread/INFO]: Loading properties
+[00:22:59] [Server thread/INFO]: Default game type: SURVIVAL
+[00:22:59] [Server thread/INFO]: Generating keypair
+[00:22:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:22:59] [Server thread/INFO]: Using epoll channel type
+[00:22:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:22:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:22:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:22:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:22:59] [Server thread/INFO]: Preparing level "world"
+[00:23:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:04] [Server thread/INFO]: Time elapsed: 4330 ms
+[00:23:04] [Server thread/INFO]: Done (4.624s)! For help, type "help"
+[00:23:17] [Server thread/INFO]: AVich0[/127.232.188.40:46343] logged in with entity id 22 at (0.5, 72.0, -5.5)
+[00:23:18] [Server thread/INFO]: AVich0 joined the game
+[00:31:02] [Server thread/INFO]: AVich0 has made the advancement [Stone Age]
+[00:31:18] [Server thread/INFO]: AVich0 has made the advancement [Getting an Upgrade]
+[00:32:55] [Server thread/INFO]: AVich0 has made the advancement [Ice Bucket Challenge]
+[00:36:17] [Server thread/INFO]: AVich0 has made the advancement [Sweet Dreams]
+[00:38:55] [Server thread/INFO]: AVich0 has made the advancement [What a Deal!]
