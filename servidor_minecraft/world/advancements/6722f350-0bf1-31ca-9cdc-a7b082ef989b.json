@@ -24,6 +24,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:enderman": "2025-07-31 02:44:31 +0000",
       "minecraft:zombie": "2025-07-31 01:31:16 +0000",
       "minecraft:creeper": "2025-07-31 02:34:51 +0000"
     },
@@ -638,6 +639,18 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-31 02:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-31 02:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-31 02:40:00 +0000"
     },
     "done": true
   },
