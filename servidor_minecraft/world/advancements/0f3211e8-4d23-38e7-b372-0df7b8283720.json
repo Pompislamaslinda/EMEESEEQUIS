@@ -12,13 +12,16 @@
       "minecraft:forest": "2025-07-31 02:36:43 +0000",
       "minecraft:mangrove_swamp": "2025-07-31 06:39:13 +0000",
       "minecraft:sparse_jungle": "2025-07-31 02:31:12 +0000",
-      "minecraft:jungle": "2025-07-31 03:12:56 +0000",
       "minecraft:river": "2025-07-31 02:36:24 +0000",
       "minecraft:lukewarm_ocean": "2025-07-31 02:50:10 +0000",
+      "minecraft:stony_shore": "2025-08-01 07:55:41 +0000",
       "minecraft:dripstone_caves": "2025-07-31 03:36:04 +0000",
+      "minecraft:desert": "2025-08-01 07:57:29 +0000",
+      "minecraft:jungle": "2025-07-31 03:12:56 +0000",
       "minecraft:savanna": "2025-07-31 06:39:40 +0000",
       "minecraft:windswept_savanna": "2025-07-31 06:38:00 +0000",
-      "minecraft:plains": "2025-07-31 03:00:47 +0000"
+      "minecraft:plains": "2025-07-31 03:00:47 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-01 08:02:18 +0000"
     },
     "done": false
   },
@@ -251,6 +254,7 @@
       "minecraft:skeleton": "2025-07-31 02:55:33 +0000",
       "minecraft:phantom": "2025-07-31 05:15:41 +0000",
       "minecraft:wither_skeleton": "2025-08-01 03:55:43 +0000",
+      "minecraft:husk": "2025-08-01 07:58:54 +0000",
       "minecraft:ghast": "2025-08-01 04:15:08 +0000",
       "minecraft:hoglin": "2025-08-01 04:06:38 +0000",
       "minecraft:piglin": "2025-08-01 04:07:34 +0000",
@@ -422,6 +426,7 @@
       "cooked_mutton": "2025-07-31 05:00:24 +0000",
       "cooked_cod": "2025-07-31 02:50:55 +0000",
       "cooked_beef": "2025-07-31 03:19:10 +0000",
+      "baked_potato": "2025-08-01 07:53:19 +0000",
       "melon_slice": "2025-07-31 04:32:05 +0000",
       "cooked_salmon": "2025-07-31 02:49:16 +0000",
       "carrot": "2025-07-31 04:30:17 +0000"
@@ -2066,6 +2071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-01 08:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-08-01 04:07:59 +0000"
@@ -2075,6 +2086,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-08-01 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-01 08:11:05 +0000"
     },
     "done": true
   },
@@ -2102,6 +2119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-01 07:55:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2025-08-01 04:07:59 +0000"
@@ -2123,6 +2146,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-08-01 07:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-01 08:11:05 +0000"
     },
     "done": true
   },
@@ -2175,6 +2204,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-08-01 03:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-08-01 07:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-01 07:53:50 +0000"
     },
     "done": true
   },
@@ -2403,6 +2444,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-08-01 03:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-01 07:53:50 +0000"
     },
     "done": true
   },
