@@ -160,3 +160,6 @@
 [06:10:55] [Server thread/INFO]: Le0 lost connection: Disconnected
 [06:10:55] [Server thread/INFO]: Le0 left the game
 [06:14:41] [Server thread/INFO]: dieggox has made the advancement [Voluntary Exile]
+[06:56:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=16, y=102, z=483} jb{x=17, y=101, z=486}
+[06:58:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:58:21] [Server thread/INFO]: 	a<--[HERE]
