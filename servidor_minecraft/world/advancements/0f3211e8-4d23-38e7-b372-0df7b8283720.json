@@ -248,11 +248,17 @@
       "minecraft:blaze": "2025-08-01 03:47:21 +0000",
       "minecraft:skeleton": "2025-07-31 02:55:33 +0000",
       "minecraft:phantom": "2025-07-31 05:15:41 +0000",
-      "minecraft:enderman": "2025-07-31 06:03:25 +0000",
-      "minecraft:spider": "2025-07-31 02:53:43 +0000",
       "minecraft:wither_skeleton": "2025-08-01 03:55:43 +0000",
+      "minecraft:ghast": "2025-08-01 04:15:08 +0000",
+      "minecraft:hoglin": "2025-08-01 04:06:38 +0000",
+      "minecraft:piglin": "2025-08-01 04:07:34 +0000",
+      "minecraft:enderman": "2025-07-31 06:03:25 +0000",
+      "minecraft:magma_cube": "2025-08-01 03:59:49 +0000",
+      "minecraft:spider": "2025-07-31 02:53:43 +0000",
       "minecraft:zombie": "2025-07-31 02:35:38 +0000",
-      "minecraft:drowned": "2025-07-31 02:50:04 +0000"
+      "minecraft:creeper": "2025-08-01 04:56:18 +0000",
+      "minecraft:drowned": "2025-07-31 02:50:04 +0000",
+      "minecraft:zombie_villager": "2025-08-01 04:52:58 +0000"
     },
     "done": false
   },
@@ -2016,9 +2022,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-01 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-01 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-08-01 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
     },
     "done": true
   },
@@ -2040,16 +2064,59 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-01 04:59:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-08-01 03:36:53 +0000",
-      "minecraft:nether_wastes": "2025-08-01 03:42:57 +0000"
+      "minecraft:nether_wastes": "2025-08-01 03:42:57 +0000",
+      "minecraft:soul_sand_valley": "2025-08-01 04:14:09 +0000"
     },
     "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-08-01 03:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-08-01 04:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-01 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-08-01 04:55:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-01 04:11:40 +0000"
     },
     "done": true
   },
@@ -2065,9 +2132,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-08-01 04:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-08-01 03:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-01 04:15:05 +0000"
     },
     "done": true
   },
@@ -2077,9 +2156,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-01 04:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-08-01 03:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-01 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-01 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-01 04:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-08-01 04:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
     },
     "done": true
   },
@@ -2101,9 +2228,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-01 04:32:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-01 03:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-01 04:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-01 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-01 04:09:25 +0000"
     },
     "done": true
   },
@@ -2113,15 +2270,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-01 04:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-08-01 03:40:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-01 04:11:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-08-01 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-01 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2025-08-01 04:59:50 +0000"
     },
     "done": true
   },
@@ -2158,6 +2345,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-08-01 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-01 04:55:47 +0000"
     },
     "done": true
   },
