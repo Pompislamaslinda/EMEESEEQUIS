@@ -13,6 +13,7 @@
       "minecraft:jungle": "2025-07-30 20:42:09 +0000",
       "minecraft:river": "2025-07-30 20:41:59 +0000",
       "minecraft:lush_caves": "2025-07-31 20:30:33 +0000",
+      "minecraft:windswept_savanna": "2025-08-01 03:36:23 +0000",
       "minecraft:plains": "2025-07-31 05:19:48 +0000"
     },
     "done": false
@@ -2050,6 +2051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-31 20:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-07-31 20:47:34 +0000"
@@ -2059,12 +2066,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-07-31 20:47:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-31 20:31:27 +0000"
     },
     "done": true
   },
