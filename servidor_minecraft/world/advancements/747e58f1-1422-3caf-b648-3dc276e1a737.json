@@ -428,6 +428,7 @@
       "cooked_rabbit": "2025-08-01 05:33:04 +0000",
       "cooked_chicken": "2025-07-30 21:06:41 +0000",
       "cooked_mutton": "2025-07-31 02:35:48 +0000",
+      "cooked_beef": "2025-08-02 04:33:07 +0000",
       "melon_slice": "2025-07-30 21:58:06 +0000"
     },
     "done": false
@@ -2588,9 +2589,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-02 04:23:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-02 02:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-02 04:32:49 +0000"
     },
     "done": true
   },
@@ -2624,6 +2637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-02 04:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-08-02 03:15:10 +0000"
@@ -2639,6 +2658,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-02 02:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-02 04:32:49 +0000"
     },
     "done": true
   },
@@ -2660,6 +2685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-02 04:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-02 02:59:49 +0000"
@@ -2675,6 +2706,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-02 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-02 04:32:49 +0000"
     },
     "done": true
   },
@@ -2702,9 +2739,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-02 04:23:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-02 02:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-02 04:23:49 +0000"
     },
     "done": true
   },
