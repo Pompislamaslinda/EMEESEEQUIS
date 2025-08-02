@@ -397,7 +397,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-02 02:54:50 +0000",
       "minecraft:spider": "2025-08-02 06:28:04 +0000",
-      "minecraft:zombie": "2025-08-02 05:32:20 +0000"
+      "minecraft:zombie": "2025-08-02 05:32:20 +0000",
+      "minecraft:drowned": "2025-08-02 07:30:13 +0000"
     },
     "done": false
   },
@@ -423,6 +424,7 @@
     "criteria": {
       "bread": "2025-08-02 04:51:25 +0000",
       "cooked_chicken": "2025-08-02 05:03:12 +0000",
+      "cookie": "2025-08-02 21:36:02 +0000",
       "beetroot": "2025-08-02 02:56:33 +0000",
       "carrot": "2025-08-02 03:05:18 +0000"
     },
@@ -1026,6 +1028,54 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-02 06:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-02 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-02 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-02 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-02 07:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-02 07:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-02 07:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-02 21:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-02 21:34:43 +0000"
     },
     "done": true
   },
