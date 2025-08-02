@@ -197,3 +197,6 @@
 [05:55:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-20, y=68, z=151} jb{x=-21, y=69, z=151}
 [06:04:14] [Server thread/INFO]: fofi lost connection: Disconnected
 [06:04:14] [Server thread/INFO]: fofi left the game
+[06:09:53] [Server thread/INFO]: fofi[/127.237.38.199:60637] logged in with entity id 104672 at (192.30000001192093, 64.0, 44.14351705820906)
+[06:09:53] [Server thread/INFO]: fofi joined the game
+[06:10:29] [Server thread/INFO]: dieggox has made the advancement [What a Deal!]
