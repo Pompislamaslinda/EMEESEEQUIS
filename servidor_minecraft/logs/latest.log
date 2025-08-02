@@ -195,3 +195,5 @@
 [05:43:51] [Server thread/INFO]: Le0 lost connection: Disconnected
 [05:43:51] [Server thread/INFO]: Le0 left the game
 [05:55:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-20, y=68, z=151} jb{x=-21, y=69, z=151}
+[06:04:14] [Server thread/INFO]: fofi lost connection: Disconnected
+[06:04:14] [Server thread/INFO]: fofi left the game
