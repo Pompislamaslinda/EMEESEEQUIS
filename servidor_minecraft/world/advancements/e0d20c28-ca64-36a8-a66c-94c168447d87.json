@@ -1936,49 +1936,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_the_recipe": "2025-08-01 04:33:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-08-01 03:40:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-08-01 03:51:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-08-01 03:52:07 +0000",
-      "minecraft:pig": "2025-08-01 03:55:39 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-08-01 03:51:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_the_recipe": "2025-08-01 03:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-08-01 03:42:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-01 03:24:08 +0000"
@@ -1991,9 +1948,52 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-01 03:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-08-01 03:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-01 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-01 03:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-01 03:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-08-01 03:52:07 +0000",
+      "minecraft:pig": "2025-08-01 03:55:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-01 03:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-08-01 03:53:07 +0000"
     },
     "done": true
   },
@@ -2003,9 +2003,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "bred": "2025-08-01 03:52:07 +0000"
+      "has_the_recipe": "2025-08-01 04:33:51 +0000"
     },
     "done": true
   },
