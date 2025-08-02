@@ -259,6 +259,7 @@
       "minecraft:ghast": "2025-08-01 04:15:08 +0000",
       "minecraft:hoglin": "2025-08-01 04:06:38 +0000",
       "minecraft:piglin": "2025-08-01 04:07:34 +0000",
+      "minecraft:breeze": "2025-08-02 03:35:17 +0000",
       "minecraft:enderman": "2025-07-31 06:03:25 +0000",
       "minecraft:stray": "2025-08-02 03:19:54 +0000",
       "minecraft:magma_cube": "2025-08-01 03:59:49 +0000",
@@ -2647,6 +2648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-08-02 03:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-08-02 03:23:59 +0000"
@@ -2694,6 +2701,12 @@
       "has_waxed_copper_block": "2025-08-02 03:23:59 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-08-02 03:34:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
@@ -2755,6 +2768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-02 03:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-08-02 03:21:31 +0000"
@@ -2782,6 +2801,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-02 03:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-02 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-08-02 03:35:20 +0000"
     },
     "done": true
   },
