@@ -548,6 +548,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_chicken": "2025-08-02 03:00:27 +0000",
       "glow_berries": "2025-07-31 02:44:44 +0000",
       "cooked_beef": "2025-07-31 03:06:46 +0000",
       "melon_slice": "2025-07-31 00:33:42 +0000"
@@ -982,11 +983,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-08-02 02:59:42 +0000",
       "minecraft:skeleton": "2025-07-31 01:47:35 +0000",
       "minecraft:enderman": "2025-07-31 03:14:14 +0000",
       "minecraft:spider": "2025-07-31 03:53:56 +0000",
       "minecraft:zombie": "2025-07-31 02:05:09 +0000",
-      "minecraft:creeper": "2025-07-31 03:14:40 +0000"
+      "minecraft:creeper": "2025-07-31 03:14:40 +0000",
+      "minecraft:drowned": "2025-08-02 03:02:29 +0000"
     },
     "done": false
   },
@@ -2226,9 +2229,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-02 03:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-08-02 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-02 03:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-02 03:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-02 03:05:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-02 02:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-02 03:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-02 03:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-02 03:05:52 +0000"
     },
     "done": true
   },
