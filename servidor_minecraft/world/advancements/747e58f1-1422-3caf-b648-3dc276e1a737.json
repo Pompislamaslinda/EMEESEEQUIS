@@ -254,6 +254,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-02 05:14:23 +0000",
       "minecraft:cave_spider": "2025-08-01 04:12:11 +0000",
       "minecraft:skeleton": "2025-07-30 21:04:07 +0000",
       "minecraft:phantom": "2025-07-31 03:34:04 +0000",
@@ -2712,6 +2713,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-08-02 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-02 05:14:42 +0000"
     },
     "done": true
   },
