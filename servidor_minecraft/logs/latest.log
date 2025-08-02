@@ -1,24 +1,4 @@
-[23:42:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:42:31] [ServerMain/INFO]: Loaded 1407 recipes
-[23:42:31] [ServerMain/INFO]: Loaded 1520 advancements
-[23:42:31] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[23:42:31] [Server thread/INFO]: Loading properties
-[23:42:31] [Server thread/INFO]: Default game type: SURVIVAL
-[23:42:31] [Server thread/INFO]: Generating keypair
-[23:42:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:42:31] [Server thread/INFO]: Using epoll channel type
-[23:42:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:42:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:42:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:42:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:42:31] [Server thread/INFO]: Preparing level "world"
-[23:42:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:35] [Server thread/INFO]: Time elapsed: 2967 ms
-[23:42:35] [Server thread/INFO]: Done (3.256s)! For help, type "help"
-[23:43:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:03:15] [Server thread/INFO]: AVich0[/127.177.104.75:59721] logged in with entity id 1 at (-200.7185311318982, 58.0, 281.30000001192093)
+[00:03:15] [Server thread/INFO]: AVich0 joined the game
+[00:05:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:05:56] [Server thread/INFO]: aaa<--[HERE]
