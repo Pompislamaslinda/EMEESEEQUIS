@@ -40,3 +40,8 @@
 [22:24:47] [Server thread/INFO]: [Not Secure] <DonPepsi> no si leito
 [22:27:10] [Server thread/INFO]: DonPepsi lost connection: Disconnected
 [22:27:10] [Server thread/INFO]: DonPepsi left the game
+[22:41:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-3, y=76, z=-17} jb{x=-3, y=76, z=-16}
+[22:53:20] [Server thread/INFO]: DonPepsi[/127.237.38.199:34239] logged in with entity id 22503 at (142.292529592781, 91.0, -21.43401343468361)
+[22:53:20] [Server thread/INFO]: DonPepsi joined the game
+[22:58:00] [Server thread/INFO]: DonPepsi has made the advancement [Who is Cutting Onions?]
+[22:58:35] [Server thread/INFO]: [Not Secure] <Le0> xuxesu
