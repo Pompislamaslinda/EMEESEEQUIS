@@ -548,6 +548,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-02 04:02:05 +0000",
       "cooked_chicken": "2025-08-02 03:00:27 +0000",
       "cooked_mutton": "2025-08-02 03:20:40 +0000",
       "glow_berries": "2025-07-31 02:44:44 +0000",
@@ -2281,6 +2282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-02 04:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-02 03:24:11 +0000"
@@ -2494,6 +2501,12 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-08-02 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-08-02 04:03:17 +0000"
     },
     "done": true
   },
