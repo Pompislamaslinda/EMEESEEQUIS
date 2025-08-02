@@ -24,3 +24,8 @@
 [00:44:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [00:47:47] [Server thread/INFO]: AVich0[/127.177.104.75:39147] logged in with entity id 1 at (-195.51668381755258, 64.0, 293.2777414697182)
 [00:47:47] [Server thread/INFO]: AVich0 joined the game
+[01:04:40] [Server thread/INFO]: dieggox[/127.112.41.255:35181] logged in with entity id 2177 at (-279.55747538200654, 63.53584062504456, 840.3520073701245)
+[01:04:40] [Server thread/INFO]: dieggox joined the game
+[01:04:41] [Server thread/WARN]: UUID of added entity already exists: cpd['Sheep'/2267, l='ServerLevel[world]', x=-192.36, y=65.00, z=716.18]
+[01:05:06] [Server thread/INFO]: [Not Secure] <dieggox> wena
+[01:09:22] [Server thread/WARN]: dieggox moved too quickly! 5.085747040115677,2.003967839911212,8.418326885025465
