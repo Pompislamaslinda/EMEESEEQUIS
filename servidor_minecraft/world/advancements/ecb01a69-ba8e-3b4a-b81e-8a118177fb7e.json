@@ -1622,18 +1622,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-08-03 06:52:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/whole_pack": {
-    "criteria": {
-      "minecraft:woods": "2025-08-03 06:52:42 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-03 06:35:53 +0000"
@@ -1645,6 +1633,18 @@
       "has_bone_meal": "2025-08-03 06:35:53 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-03 06:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-08-03 06:52:42 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4440
 }
