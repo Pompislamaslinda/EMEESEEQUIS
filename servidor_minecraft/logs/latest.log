@@ -1,62 +1,31 @@
-[21:32:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:32:10] [ServerMain/INFO]: Loaded 1407 recipes
-[21:32:10] [ServerMain/INFO]: Loaded 1520 advancements
-[21:32:10] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:32:10] [Server thread/INFO]: Loading properties
-[21:32:10] [Server thread/INFO]: Default game type: SURVIVAL
-[21:32:10] [Server thread/INFO]: Generating keypair
-[21:32:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:32:10] [Server thread/INFO]: Using epoll channel type
-[21:32:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:32:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:32:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:32:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:32:10] [Server thread/INFO]: Preparing level "world"
-[21:32:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:14] [Server thread/INFO]: Time elapsed: 4073 ms
-[21:32:14] [Server thread/INFO]: Done (4.367s)! For help, type "help"
-[21:32:18] [Server thread/INFO]: fofi[/127.237.38.199:48337] logged in with entity id 4 at (189.84421296079785, 61.69171984838947, 17.74922722641108)
-[21:32:18] [Server thread/INFO]: fofi joined the game
-[21:39:49] [Server thread/INFO]: Le0[/127.136.237.167:59685] logged in with entity id 1532 at (99.51077866222973, 93.0, -89.74574862454321)
-[21:39:49] [Server thread/INFO]: Le0 joined the game
-[21:56:11] [Server thread/INFO]: fofi has made the advancement [Fishy Business]
-[22:21:04] [Server thread/INFO]: DonPepsi[/127.237.38.199:48419] logged in with entity id 13132 at (142.6165558335867, 91.0, -25.627657951298414)
-[22:21:04] [Server thread/INFO]: DonPepsi joined the game
-[22:22:11] [Server thread/INFO]: [Not Secure] <DonPepsi> leo weko
-[22:22:28] [Server thread/INFO]: [Not Secure] <Le0> oe nopo
-[22:24:16] [Server thread/INFO]: [Not Secure] <DonPepsi> y vo
-[22:24:23] [Server thread/INFO]: [Not Secure] <DonPepsi> tai cambiando de casa
-[22:24:29] [Server thread/INFO]: [Not Secure] <Le0> oe para alla es el desierto
-[22:24:40] [Server thread/INFO]: [Not Secure] <Le0> y un spawn de arañas rancias
-[22:24:47] [Server thread/INFO]: [Not Secure] <DonPepsi> no si leito
-[22:27:10] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[22:27:10] [Server thread/INFO]: DonPepsi left the game
-[22:41:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-3, y=76, z=-17} jb{x=-3, y=76, z=-16}
-[22:53:20] [Server thread/INFO]: DonPepsi[/127.237.38.199:34239] logged in with entity id 22503 at (142.292529592781, 91.0, -21.43401343468361)
-[22:53:20] [Server thread/INFO]: DonPepsi joined the game
-[22:58:00] [Server thread/INFO]: DonPepsi has made the advancement [Who is Cutting Onions?]
-[22:58:35] [Server thread/INFO]: [Not Secure] <Le0> xuxesu
-[23:16:46] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[23:16:46] [Server thread/INFO]: DonPepsi left the game
-[23:19:35] [Server thread/INFO]: DonPepsi[/127.237.38.199:34335] logged in with entity id 29736 at (141.1915931914317, 91.0, -21.090607397051418)
-[23:19:35] [Server thread/INFO]: DonPepsi joined the game
-[23:19:44] [Server thread/INFO]: [Not Secure] <DonPepsi> OE VAMO A TOMAR ONCE WON
-[23:19:47] [Server thread/INFO]: [Not Secure] <DonPepsi> POR SI SE CIERRA LA WEA
-[23:20:23] [Server thread/INFO]: [Not Secure] <Le0> eri un weon
-[23:20:25] [Server thread/INFO]: [Not Secure] <DonPepsi> VO ERI
-[23:20:26] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[23:20:26] [Server thread/INFO]: DonPepsi left the game
-[23:22:17] [Server thread/INFO]: fofi lost connection: Disconnected
-[23:22:17] [Server thread/INFO]: fofi left the game
-[23:39:57] [Server thread/INFO]: Le0 lost connection: Disconnected
-[23:39:57] [Server thread/INFO]: Le0 left the game
-[23:40:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:15:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:15:31] [ServerMain/INFO]: Loaded 1407 recipes
+[01:15:31] [ServerMain/INFO]: Loaded 1520 advancements
+[01:15:31] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:15:31] [Server thread/INFO]: Loading properties
+[01:15:31] [Server thread/INFO]: Default game type: SURVIVAL
+[01:15:31] [Server thread/INFO]: Generating keypair
+[01:15:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:15:31] [Server thread/INFO]: Using epoll channel type
+[01:15:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:15:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:15:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:15:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:15:31] [Server thread/INFO]: Preparing level "world"
+[01:15:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:15:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:15:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:15:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:15:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:15:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:15:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:15:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:15:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:15:36] [Server thread/INFO]: Time elapsed: 4018 ms
+[01:15:36] [Server thread/INFO]: Done (4.374s)! For help, type "help"
+[01:16:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:21:30] [Server thread/INFO]: fofi[/127.237.38.199:49229] logged in with entity id 8 at (182.33953679952714, 63.0, 129.3545691731543)
+[01:21:30] [Server thread/INFO]: fofi joined the game
+[01:24:00] [Server thread/INFO]: fofi lost connection: Timed out
+[01:24:00] [Server thread/INFO]: fofi left the game
+[01:25:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
