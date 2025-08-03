@@ -12,6 +12,7 @@
       "minecraft:old_growth_pine_taiga": "2025-07-31 18:39:32 +0000",
       "minecraft:dark_forest": "2025-07-31 03:59:49 +0000",
       "minecraft:forest": "2025-07-31 02:00:12 +0000",
+      "minecraft:mangrove_swamp": "2025-08-03 02:34:38 +0000",
       "minecraft:sparse_jungle": "2025-07-31 01:30:32 +0000",
       "minecraft:river": "2025-07-31 01:59:14 +0000",
       "minecraft:lukewarm_ocean": "2025-07-31 03:01:40 +0000",
@@ -26,7 +27,8 @@
       "minecraft:savanna": "2025-07-31 03:02:11 +0000",
       "minecraft:windswept_savanna": "2025-07-31 01:59:27 +0000",
       "minecraft:plains": "2025-07-31 01:59:30 +0000",
-      "minecraft:warm_ocean": "2025-08-01 04:38:19 +0000"
+      "minecraft:warm_ocean": "2025-08-01 04:38:19 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-03 02:01:53 +0000"
     },
     "done": false
   },
@@ -537,6 +539,7 @@
       "cooked_mutton": "2025-07-31 03:36:37 +0000",
       "glow_berries": "2025-07-31 20:14:52 +0000",
       "cooked_beef": "2025-07-31 03:12:25 +0000",
+      "baked_potato": "2025-08-03 02:09:11 +0000",
       "carrot": "2025-08-01 04:31:17 +0000"
     },
     "done": false
@@ -2227,15 +2230,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_sandstone": "2025-08-01 04:42:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-08-01 04:42:52 +0000"
+      "has_water_bucket": "2025-08-01 03:44:29 +0000"
     },
     "done": true
   },
@@ -2245,9 +2242,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-01 03:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-08-01 03:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-01 04:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-01 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-01 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-01 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-01 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-01 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-01 04:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 04:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 04:42:52 +0000"
     },
     "done": true
   },
@@ -2293,45 +2350,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-08-01 04:27:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-01 04:39:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-08-01 03:44:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-08-01 03:47:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-01 04:42:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-08-01 04:10:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-08-01 04:45:25 +0000"
     },
     "done": true
   },
@@ -2341,21 +2362,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
-      "has_hay_block": "2025-08-01 04:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-08-01 04:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-08-01 04:29:35 +0000"
+      "has_cut_sandstone": "2025-08-01 04:45:25 +0000"
     },
     "done": true
   },
@@ -2365,15 +2374,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_obsidian": "2025-08-01 04:27:35 +0000"
+      "has_hay_block": "2025-08-01 04:46:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_iron_nugget": "2025-08-01 04:27:35 +0000"
+      "has_book": "2025-08-03 01:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-03 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-08-03 02:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-03 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-03 01:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-03 01:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-03 01:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-03 02:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-08-03 02:05:21 +0000"
     },
     "done": true
   },
