@@ -31,3 +31,24 @@
 [01:25:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [01:29:58] [Server thread/INFO]: fofi[/127.237.38.199:36051] logged in with entity id 502 at (178.80140327811102, 63.0, 119.48224917093387)
 [01:29:58] [Server thread/INFO]: fofi joined the game
+[01:38:55] [Server thread/INFO]: Le0[/127.136.237.167:52477] logged in with entity id 2443 at (97.23750001192093, 93.0, -85.3282400429175)
+[01:38:55] [Server thread/INFO]: Le0 joined the game
+[01:45:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-15} jb{x=-16, y=73, z=-15}
+[01:45:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-15} jb{x=-16, y=73, z=-14}
+[01:45:41] [Server thread/INFO]: Diegojg[/127.77.238.76:34297] logged in with entity id 4486 at (-551.8320667249088, 67.0, -2067.5813814179005)
+[01:45:41] [Server thread/INFO]: Diegojg joined the game
+[01:45:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=72, z=-10}
+[01:45:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=72, z=-10}
+[01:45:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=72, z=-10}
+[01:45:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-15, y=73, z=-11}
+[01:45:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-15, y=73, z=-11}
+[01:45:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-15, y=73, z=-11}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=73, z=-9}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=73, z=-9}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-14, y=73, z=-9}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=73, z=-9}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=74, z=-9}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=74, z=-9}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=74, z=-9}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=74, z=-9}
+[01:45:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-17, y=72, z=-10} jb{x=-16, y=74, z=-9}
