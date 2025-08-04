@@ -52,3 +52,8 @@
 [02:31:57] [Server thread/INFO]: Le0 joined the game
 [02:44:18] [Server thread/INFO]: [Not Secure] <DonPepsi> q haci leo qlo
 [02:44:32] [Server thread/INFO]: [Not Secure] <Le0> oe q wa
+[02:50:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=17, y=33, z=8} jb{x=16, y=33, z=8}
+[02:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-240, y=73, z=75} jb{x=-241, y=71, z=73}
+[02:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-240, y=73, z=75} jb{x=-241, y=71, z=73}
+[02:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-240, y=72, z=76} jb{x=-241, y=71, z=73}
+[02:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-240, y=72, z=76} jb{x=-241, y=71, z=73}

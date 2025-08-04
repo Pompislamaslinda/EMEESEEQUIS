@@ -2925,6 +2925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-08-04 02:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-04 02:07:26 +0000"
