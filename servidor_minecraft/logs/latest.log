@@ -57,3 +57,9 @@
 [02:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-240, y=73, z=75} jb{x=-241, y=71, z=73}
 [02:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-240, y=72, z=76} jb{x=-241, y=71, z=73}
 [02:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-240, y=72, z=76} jb{x=-241, y=71, z=73}
+[03:00:19] [Server thread/INFO]: Diegojg[/127.77.238.76:34775] logged in with entity id 37309 at (-552.4560871553111, 67.0, -2067.372317434651)
+[03:00:19] [Server thread/INFO]: Diegojg joined the game
+[03:03:47] [Server thread/INFO]: DonPepsi fell from a high place
+[03:05:45] [Server thread/INFO]: DonPepsi has made the advancement [Ol' Betsy]
+[03:05:49] [Server thread/INFO]: DonPepsi has made the advancement [Take Aim]
+[03:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
