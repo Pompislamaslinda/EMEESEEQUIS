@@ -79,3 +79,23 @@
 [03:40:12] [Server thread/WARN]: Jungle Boat (vehicle of Diegojg) moved too quickly! -8.73388448536457,0.0,6.507043213882753
 [03:40:12] [Server thread/WARN]: Jungle Boat (vehicle of Diegojg) moved too quickly! -8.786409534664017,0.0,6.833343284944476
 [03:40:12] [Server thread/WARN]: Jungle Boat (vehicle of Diegojg) moved too quickly! -8.805365285680551,0.0,7.1552650523996135
+[03:42:23] [Server thread/INFO]: Diegojg lost connection: Timed out
+[03:42:23] [Server thread/INFO]: Diegojg left the game
+[03:42:24] [Server thread/WARN]: handleDisconnection() called twice
+[03:42:37] [Server thread/INFO]: Diegojg[/127.77.238.76:46597] logged in with entity id 71657 at (-190.52546273561723, 62.11076431274414, -914.0700284652851)
+[03:42:37] [Server thread/INFO]: Diegojg joined the game
+[03:55:02] [Server thread/INFO]: fofi lost connection: Disconnected
+[03:55:02] [Server thread/INFO]: fofi left the game
+[03:55:21] [Server thread/INFO]: Stopping the server
+[03:55:21] [Server thread/INFO]: Stopping server
+[03:55:21] [Server thread/INFO]: Saving players
+[03:55:21] [Server thread/INFO]: Le0 lost connection: Server closed
+[03:55:21] [Server thread/INFO]: Le0 left the game
+[03:55:21] [Server thread/INFO]: Saving worlds
+[03:55:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:55:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:55:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
