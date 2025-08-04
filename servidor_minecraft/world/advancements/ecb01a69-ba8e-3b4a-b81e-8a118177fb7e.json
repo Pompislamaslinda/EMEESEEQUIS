@@ -13,6 +13,7 @@
       "minecraft:jungle": "2025-08-02 04:12:46 +0000",
       "minecraft:river": "2025-08-02 02:50:30 +0000",
       "minecraft:lukewarm_ocean": "2025-08-02 04:21:44 +0000",
+      "minecraft:savanna": "2025-08-03 22:53:31 +0000",
       "minecraft:windswept_savanna": "2025-08-03 05:46:56 +0000",
       "minecraft:plains": "2025-08-03 05:38:53 +0000"
     },
@@ -1645,6 +1646,36 @@
       "minecraft:woods": "2025-08-03 06:52:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-03 22:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-03 22:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-03 22:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-04 01:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-04 01:21:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4440
 }
