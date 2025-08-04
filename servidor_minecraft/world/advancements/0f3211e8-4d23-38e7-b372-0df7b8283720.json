@@ -267,7 +267,8 @@
       "minecraft:zombie": "2025-07-31 02:35:38 +0000",
       "minecraft:creeper": "2025-08-01 04:56:18 +0000",
       "minecraft:drowned": "2025-07-31 02:50:04 +0000",
-      "minecraft:zombie_villager": "2025-08-01 04:52:58 +0000"
+      "minecraft:zombie_villager": "2025-08-01 04:52:58 +0000",
+      "minecraft:slime": "2025-08-04 02:07:21 +0000"
     },
     "done": false
   },
@@ -2870,9 +2871,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-08-02 06:25:02 +0000"
+      "traded": "2025-08-02 06:10:29 +0000"
     },
     "done": true
   },
@@ -2882,9 +2883,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "traded": "2025-08-02 06:10:29 +0000"
+      "lightning_rod_with_villager_no_fire": "2025-08-02 06:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-04 02:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-04 02:07:26 +0000"
     },
     "done": true
   },
